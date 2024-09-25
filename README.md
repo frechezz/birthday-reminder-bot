@@ -47,7 +47,7 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yourusername/birthday-reminder-bot.git
+   git clone https://github.com/frechezz/birthday-reminder-bot.git
    ```
 2. Перейдите в директорию проекта:
    ```
